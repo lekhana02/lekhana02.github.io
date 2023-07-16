@@ -1,3 +1,4 @@
+
 * {
   box-sizing: border-box;
 }
@@ -33,9 +34,9 @@ h1 {
   overflow: none;
   text-align: center;
   border: 4px solid black;
-  width: 100px;
+  width: 90px;
   height: 40px;
-  padding: 5px;
+  padding: 3px;
   float: right;
   margin-right: 36px;
   margin-top: 0px;
@@ -82,13 +83,14 @@ h1 {
   }
   .col-md-6 {
     width: 50%;
+    position:relative;
   }
   .col-md-12 {
     margin-left: -10px;
-    width: 100%;
+    width: 100px%;
   }
   .name3{
-    margin-right: 65px;
+    margin-right: 72px;
     width: 100px;
   }
 }
@@ -99,6 +101,6 @@ h1 {
     width: 100%;
   }
   .content-name{
-    margin-right: 30px;
+    margin-right: 37px;
   }
 }
