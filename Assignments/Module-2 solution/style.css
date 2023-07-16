@@ -1,4 +1,3 @@
-
 * {
   box-sizing: border-box;
 }
@@ -15,16 +14,18 @@ body{
 }
 
 h1 {
-  margin-bottom: 15px;
+  margin-top:50px;;
+  margin-bottom: 100px;
   text-align: center;
   color: #180604;
-  font-size: 50px;
+  font-size: 35px;
 }
 
 
 .box{
-  width: 100%;
+  width: 105%;
   overflow: none;
+  
 }
 
 
@@ -55,7 +56,7 @@ h1 {
 }
 
 .name1{
-  background-color: #ffb6c1de;
+  background-color: #ffb6c18a;
 }
 
 .name2{
@@ -63,7 +64,7 @@ h1 {
   background-color: #ff1900a4;
 }
 .name3{
-  background-color: #ffd50092;
+  background-color: #ffd5006c;
 }
 
 
