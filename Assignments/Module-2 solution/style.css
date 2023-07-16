@@ -83,14 +83,13 @@ h1 {
   }
   .col-md-6 {
     width: 50%;
-    position:relative;
   }
   .col-md-12 {
     margin-left: -10px;
     width: 100px%;
   }
   .name3{
-    margin-right: 72px;
+    margin-right: 68px;
     width: 100px;
   }
 }
@@ -101,6 +100,6 @@ h1 {
     width: 100%;
   }
   .content-name{
-    margin-right: 37px;
+    margin-right: 40px;
   }
 }
